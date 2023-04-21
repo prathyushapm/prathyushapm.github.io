@@ -2,6 +2,36 @@
 layout: default
 ---
 
+
+
+### Connect   
+November 2022   
+
+It was a challenge to develop and Deploy Employee engagement app at multiple Geographic locations.    
+
+**What was the approach?**    
+Set up Goals and approach towards goals:
+Once Goal is set we are ready to start planning to approach the goals   
+
+**Segmentation:**   
+Geographic and Demographic segmentation was  first step towards understanding customer pain points and a first step on understanding digitalization goals.
+
+**Targeting:**.   
+Understand target audience, target audience being Employees at the lowest organizational hierarchy till highest of organization hierarchy had helped to sort list of features   
+
+**Prioritizing features:**    
+AHP was introduced where we prioritized features in a workshop with stakeholders of Broadcom (CIO,Legal,HR,IT head,CTO)    
+
+**Development process:**   
+Introduction of scrum for sprint planning and prioritizing of backlog helped in timeline tracking.   
+
+**What was the challenge?**   
+Ambiguity of features after demo had added several Change requests till very end of release.   
+
+**How did I face these challenges?**   
+Using a simple method “ Cost of delay”. By using technique teams have evaluated cost of doing something later and prioritize the items with highest cost for given timeline.   
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
