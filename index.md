@@ -4,7 +4,7 @@ layout: default
 
 
 
-### Connect   
+## Connect:       
 November 2022   
 
 It was a challenge to develop and Deploy Employee engagement app at multiple Geographic locations.    
@@ -33,8 +33,23 @@ Using a simple method “ Cost of delay”. By using technique teams have evalua
 
         
         
-        
-        
+## My BlueRx:   
+
+**Create a Digital Tool for HCSC members:**   
+* Helping members to manage their medications, find pharmacies and related services, search for drugs and find other low cost alternatives, and core member functionalities such as member benefits, ID card etc.      
+
+
+**What was the Goal?**   
+To Digitalize Insurance process with Rx Benefits   
+
+**What was the effort?**   
+Effort was estimated to 365 days    
+
+**Did we reach the Goal?**   
+Yes we did, Production deployment of Rx app for 5 states    
+
+**What was interesting?**   
+Followed scrum methodology with focus on creating Independent teams          
         
         
         
