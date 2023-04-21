@@ -31,7 +31,21 @@ Ambiguity of features after demo had added several Change requests till very end
 **How did I face these challenges?**   
 Using a simple method “ Cost of delay”. By using technique teams have evaluated cost of doing something later and prioritize the items with highest cost for given timeline.   
 
-
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
