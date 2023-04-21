@@ -2,11 +2,10 @@
 layout: default
 ---
 
+# Human Resources
 
-
-## Connect:       
-November 2022   
-
+## Connect: Employee Engagement app      
+November 2022  
 It was a challenge to develop and Deploy Employee engagement app at multiple Geographic locations.    
 
 **What was the approach?**    
@@ -31,13 +30,13 @@ Ambiguity of features after demo had added several Change requests till very end
 **How did I face these challenges?**   
 Using a simple method “ Cost of delay”. By using technique teams have evaluated cost of doing something later and prioritize the items with highest cost for given timeline.   
 
-        
-        
-## My BlueRx:   
 
+# Health Care.       
+        
+## My BlueRx: Health care app.    
+November 2022
 **Create a Digital Tool for HCSC members:**   
 * Helping members to manage their medications, find pharmacies and related services, search for drugs and find other low cost alternatives, and core member functionalities such as member benefits, ID card etc.      
-
 
 **What was the Goal?**   
 To Digitalize Insurance process with Rx Benefits   
@@ -51,16 +50,49 @@ Yes we did, Production deployment of Rx app for 5 states
 **What was interesting?**   
 Followed scrum methodology with focus on creating Independent teams          
         
+
+# Fin Tech.  
+        
+## S&P Global - ESG platform   
+October 2019
+Digitalization of legacy systems, redesigning UI and UX .
+
+**What was the approach?**   
+Data Analysis driven decision making      
+
+**Requirement gathering?**   
+No targeted Audience, was entirely based on data and product need   
+
+**What type of analysis?**   
+Identifying data utilization, Designing applications for better utilization of data which drives Ratings      
+
+**What were data analysis tools used and why?**   
+Based on data source and population of data acquired, tools ranged from excel to Power BI   
+        
+
+# Supply Chain.  
+
+## OboDms - SCM management app    
+December 2018.   
+Develop OboDms Product to Digitilize supply chain across FMCG industry.    
+
+Supply chain within self was a huge people and logistics oriented industry, A fine balance between supply and demand was deciding factor for any successful FMCG industry.
+With a great team of product managers, we have gathered the data from Marketing, HR, Sales On field workshops, User interviews of several FMCG companies over a period of 60 days for understanding market and to decide our unique selling points. Later to several ups and downs we have delivered an MVP product to a cooking oil company. We have achieved our goal, Digitalizing entire order to cash process for entire Karnataka.    
+
+## Xnapp DMS.  
+June 2015.   
+A remarkable stage of may career which shaped me into a product manager from a typical business analyst.   
+
+Product as simple can teach you complicated equations, understand team culture, product thinking. When challenged every day to manage product and project expectations you turn out to be a leader rather than a follower.   
+
+**What have i learn?**.   
+Learnt user stories, scrum methodology, product thinking, How to manage projects , Sql , Pricing models, third party integrations, cost of delay.    
+       
         
         
         
         
-        
-        
-        
-        
-        
-        
+<!--         
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -179,4 +211,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
