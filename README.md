@@ -6,6 +6,6 @@ A responsive portfolio covering healthcare AI, B2B SaaS, supply chain, career ex
 
 ## Development
 
-GitHub Pages builds `index.md` to `index.html`. The homepage disables the theme layout and includes its own CSS. Resume links download the approved original PDF embedded in the page. No JavaScript is required.
+The static homepage is `index.html`, with embedded CSS and the approved original resume PDF. Resume buttons download the PDF. No JavaScript or build step is required for the homepage.
 
-Edit the HTML and style block in `index.md` to update the site. Changes pushed to `master` are published by GitHub Pages.
+Preview locally with `python3 -m http.server 8765 --bind 127.0.0.1`, then visit http://127.0.0.1:8765/. Edit the HTML and style block in `index.html` to update the site. Changes pushed to `master` are published by GitHub Pages.
